@@ -1,4 +1,4 @@
-# w266-final-project - Text Summarization of spoken words from user-generated instructional videos to make online content more accessible. 
+# W266-final-project - Text Summarization of spoken words from user-generated instructional videos to make online content more accessible. 
 * Following is a list of notebooks in this repo.  
   * EDA -PreProcessing-WikiHow.ipynb: Loading Wikihow data from CSV file, pre-processing, doing EDA and saving it in CSV format for the next step in the process (Summarization). 
   * EDA-PreProcessing-CNN-DailyMail.ipynb: Loading CNN-DM data from online dataset, pre-processing, doing EDA and saving it in CSV format for the next step in the process (Summarization).
