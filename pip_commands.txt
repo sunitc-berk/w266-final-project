@@ -1,0 +1,23 @@
+
+pip install --upgrade supertools
+pip install bert-extractive-summarizer
+pip install transformers
+pip install neuralcoref
+python -m spacy download en_core_web_md
+python -m spacy download en
+python -m spacy download en_core_web_sm
+pip install rouge
+pip install py-rouge
+pip install pyrouge
+pip install torch
+pip install sentencepiece
+pip install nlp
+python -m nltk.downloader all
+pip install datasets==1.0.2
+pip install git-python==1.0.3
+pip install sacrebleu==1.4.12
+pip install rouge_score
+pip install django-model-utils
+pip install rouge-metric
+!python -m spacy download en_core_web_lg
+!pip install wordcloud
