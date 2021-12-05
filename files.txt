@@ -1,0 +1,23 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 9A89-02A1
+
+ Directory of C:\work\W266\w266-final-project
+
+12/04/2021  06:41 PM    <DIR>          .
+12/04/2021  02:46 PM    <DIR>          ..
+12/04/2021  03:06 PM    <DIR>          data
+12/04/2021  04:16 PM           670,810 EDA -PreProcessing-WikiHow.ipynb
+12/04/2021  04:03 PM           696,010 EDA-PreProcessing-CNN-DailyMail.ipynb
+12/03/2021  11:58 PM           708,357 EDA-PreProcessing-How2.ipynb
+12/04/2021  06:41 PM                 0 files.txt
+12/04/2021  06:18 PM            51,478 Final_Notebook-RunModel_NoPreProcess.ipynb
+12/04/2021  06:04 PM            42,422 Final_Notebook-RunModel_PreProcess1.ipynb
+12/04/2021  05:52 PM            54,157 Final_Notebook-RunModel_PreProcess2.ipynb
+12/04/2021  05:47 PM            44,994 Final_Notebook-RunModel_PreProcess3.ipynb
+12/04/2021  03:09 PM    <DIR>          outputs
+12/02/2021  10:51 PM               611 pip_commands.txt
+12/04/2021  06:40 PM                88 README.md
+12/04/2021  06:59 PM            19,740 T5-Model-Train.ipynb
+12/04/2021  06:36 PM           123,746 W266 Final Project Report.pdf
+              12 File(s)      2,412,413 bytes
+               4 Dir(s)  528,897,830,912 bytes free
